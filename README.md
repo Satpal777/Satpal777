@@ -24,5 +24,6 @@
 | 🥇 | Simple Website | https://satpal777.github.io/Website  |
 | 🥇 | E-learning Website | https://satpal777.github.io/E-Learning  |
 | 🥇 | Login Form | https://satpal777.github.io/Login-Form |
+| 🥇 | GYM Website | https://satpal777.github.io/GymWebsite |
 | 🥇 | Working😎 | Work in progress😋  |
  
