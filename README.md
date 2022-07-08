@@ -3,7 +3,7 @@
 
   
 ## 🚀 About Me
-> I am a Web Developer
+> I am a enthusiastic Web Developer
 
   
 ## 🛠 Skills
