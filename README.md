@@ -10,12 +10,14 @@
 - [x] HTML
 - [x] CSS
 - [x] Javascript
-- [x] ReactJS
-- [x] PHP
 - [x] Bootstrap
+- [x] PHP
+- [x] ReactJS
 - [x] Node.js
-- [x] Angular
-- [ ] Mongo DB
+- [x] AngularJS
+- [x] Mongo DB
+- [ ] Flask
+- [ ] Django
 
 ## 🏆 Projects
 | Projects |  Title |  Demo  |
