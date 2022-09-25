@@ -1,11 +1,9 @@
 
 # Hi, I'm Satpal! 👋
 
-  
 ## 🚀 About Me
 > I am an enthusiastic Web Developer
 
-  
 ## 🛠 Skills
 - [x] HTML
 - [x] CSS
@@ -30,9 +28,6 @@
 | 🥇 | [WeatherApp](https://github.com/Satpal777/WeatherApp) |   |
 | 🥇 | [Carpool Website](https://github.com/Satpal777/Carpool) |   |
 
-
-
-
 ## Facts
 
 - 🔭 I’m currently pursuing my graduation from **GTU**
@@ -56,5 +51,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Satpal777&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Satpal777&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Satpal777&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
 [![](https://visitcount.itsvg.in/api?id=Satpal777&icon=0&color=0)](https://visitcount.itsvg.in)
