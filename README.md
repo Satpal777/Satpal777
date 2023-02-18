@@ -31,7 +31,7 @@
 | 🥇 | [WeatherApp](https://github.com/Satpal777/WeatherApp) | https://github.com/Satpal777/WeatherApp#readme  |
 | 🥇 | [Carpool Website](https://github.com/Satpal777/Carpool) | https://github.com/Satpal777/Carpool#readme  |
 
-## Facts
+## 💡Facts
 
 - 🔭 I’m currently pursuing my graduation from **GTU**
 - 🌱 I’m currently learning **Angular**
