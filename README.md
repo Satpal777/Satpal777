@@ -1,8 +1,11 @@
 
 # Hi, I'm Satpal! 👋
 
+## 😎 Portfolio
+> [Checkout here ↗️](https://rss-satpalsinhrana.vercel.app)
+
 ## 🚀 About Me
-> I am an enthusiastic Web Developer
+> I am an enthusiastic Full Stack Developer
 
 ## 🛠 Skills
 - [x] HTML
