@@ -24,9 +24,9 @@
 | 🥇 | [E-learning Website](https://github.com/Satpal777/E-Learning) | https://satpal777.github.io/E-Learning  |
 | 🥇 | [Login Form](https://github.com/Satpal777/Login-Form) | https://satpal777.github.io/Login-Form |
 | 🥇 | [GYM Website](https://github.com/Satpal777/GymWebsite) | https://satpal777.github.io/GymWebsite |
-| 🥇 | [NewsMan](https://github.com/Satpal777/NewsMan) |   |
-| 🥇 | [WeatherApp](https://github.com/Satpal777/WeatherApp) |   |
-| 🥇 | [Carpool Website](https://github.com/Satpal777/Carpool) |   |
+| 🥇 | [NewsMan](https://github.com/Satpal777/NewsMan) | https://github.com/Satpal777/NewsMan#readme  |
+| 🥇 | [WeatherApp](https://github.com/Satpal777/WeatherApp) | https://github.com/Satpal777/WeatherApp#readme  |
+| 🥇 | [Carpool Website](https://github.com/Satpal777/Carpool) | https://github.com/Satpal777/Carpool#readme  |
 
 ## Facts
 
