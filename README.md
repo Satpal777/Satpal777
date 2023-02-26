@@ -14,9 +14,13 @@
 - [x] Bootstrap
 - [x] PHP
 - [x] ReactJS
+- [x] NextJS
 - [x] Node.js
 - [x] AngularJS
 - [x] Mongo DB
+- [ ] Angular
+- [ ] Vue
+- [ ] Nuxt
 - [ ] Flask
 - [ ] Django
 
