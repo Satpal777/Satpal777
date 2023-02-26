@@ -23,13 +23,14 @@
 ## 🏆 Projects
 | Projects |  Title |  Demo  |
 | :----:  | ----  | ----  |
-| 🥇 | [Simple Website](https://github.com/Satpal777/Website) | https://satpal777.github.io/Website  |
-| 🥇 | [E-learning Website](https://github.com/Satpal777/E-Learning) | https://satpal777.github.io/E-Learning  |
-| 🥇 | [Login Form](https://github.com/Satpal777/Login-Form) | https://satpal777.github.io/Login-Form |
-| 🥇 | [GYM Website](https://github.com/Satpal777/GymWebsite) | https://satpal777.github.io/GymWebsite |
+| 🥇 | [FitnFine GYM](https://github.com/Satpal777/FitnFineGym) | https://fitn-fine-gym.vercel.app |
+| 🥇 | [Carpool Website](https://github.com/Satpal777/Carpool) | https://github.com/Satpal777/Carpool#readme  |
 | 🥇 | [NewsMan](https://github.com/Satpal777/NewsMan) | https://github.com/Satpal777/NewsMan#readme  |
 | 🥇 | [WeatherApp](https://github.com/Satpal777/WeatherApp) | https://github.com/Satpal777/WeatherApp#readme  |
-| 🥇 | [Carpool Website](https://github.com/Satpal777/Carpool) | https://github.com/Satpal777/Carpool#readme  |
+| 🥇 | [Simple Website](https://github.com/Satpal777/Website) | https://satpal777.github.io/Website  |
+| 🥇 | [E-learning Website](https://github.com/Satpal777/E-Learning) | https://satpal777.github.io/E-Learning  |
+| 🥇 | [GYM Website](https://github.com/Satpal777/GymWebsite) | https://satpal777.github.io/GymWebsite |
+| 🥇 | [Login Form](https://github.com/Satpal777/Login-Form) | https://satpal777.github.io/Login-Form |
 
 ## 💡Facts
 
