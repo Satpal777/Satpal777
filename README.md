@@ -18,7 +18,7 @@
 - [x] Node.js
 - [x] AngularJS
 - [x] Mongo DB
-- [ ] Angular
+- [x] Angular
 - [ ] Vue
 - [ ] Nuxt
 - [ ] Flask
