@@ -27,6 +27,7 @@
 ## 🏆 Projects
 | Projects |  Title |  Demo  |
 | :----:  | ----  | ----  |
+| 🥇 | [NextNews](https://github.com/Satpal777/NextNews) | [Preview](https://github.com/Satpal777/NextNews?tab=readme-ov-file#%EF%B8%8F-preview) |
 | 🥇 | [FitnFine GYM](https://github.com/Satpal777/FitnFineGym) | https://fitn-fine-gym.vercel.app |
 | 🥇 | [Carpool Website](https://github.com/Satpal777/Carpool) | https://github.com/Satpal777/Carpool#readme  |
 | 🥇 | [NewsMan](https://github.com/Satpal777/NewsMan) | https://github.com/Satpal777/NewsMan#readme  |
