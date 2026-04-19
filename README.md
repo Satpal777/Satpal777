@@ -19,7 +19,7 @@
 
 ## 💼 Experience
 
-### Software Engineer — Asite Solutions Pvt. Ltd.
+### Software Engineer @Asite Solutions Pvt. Ltd.
 *Ahmedabad, Gujarat · June 2023 – Present*
 
 - **Desktop Application Development**
