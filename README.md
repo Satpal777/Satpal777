@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Satpal 👋</h1>
 <h3 align="center">Software Engineer · Asite Solutions · Ahmedabad, India</h3>
 
-
 <p align="center">
   <a href="https://www.satpal.cloud" target="_blank">🌐 Portfolio</a> &nbsp;|&nbsp;
   <a href="https://linkedin.com/in/satpalsinhrana" target="_blank">💼 LinkedIn</a> &nbsp;|&nbsp;
@@ -9,8 +8,6 @@
   <a href="https://github.com/Satpal777" target="_blank">🐙 GitHub</a>
 </p>
 
-
----
 
 ## 🙋 About Me ![Profile View](https://komarev.com/ghpvc/?username=Satpal777&color=green)
 
@@ -20,8 +17,6 @@
 - 💬 Ask me about **JavaScript, TypeScript, Angular, React, Node.js**
 - ⚡ Fun fact: *I have a good sense of humour 😁*
 
----
-
 ## 💼 Experience
 
 ### Software Engineer — Asite Solutions Pvt. Ltd.
@@ -30,14 +25,12 @@
 - **Desktop Application Development**
 - **Web Application Development**
 
----
 
 ## 📚 Currently Learning
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![DevOps](https://img.shields.io/badge/DevOps-0A0A0A?style=flat&logo=githubactions&logoColor=white)
 
----
 
 ## 🛠 Tech Stack
 
@@ -84,7 +77,6 @@
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
----
 
 ## 🚀 Projects
 
@@ -99,7 +91,6 @@
 | 7 | [GYM Website](https://github.com/Satpal777/GymWebsite) | HTML, CSS, JS | [Live](https://satpal777.github.io/GymWebsite) |
 | 8 | [Login Form](https://github.com/Satpal777/Login-Form) | HTML, CSS | [Live](https://satpal777.github.io/Login-Form) |
 
----
 
 ## 🏆 Certifications & Achievements
 
@@ -108,13 +99,11 @@
 - 📜 **Namaste Node.js** — *Akshay Saini* · Scalable backend architecture, Libuv, Streams & Clusters
 - 🏅 **LeetCode 365 Days Badge** — *LeetCode* · Consistent problem-solving across algorithms & data structures
 
----
 
 ## ✍️ Blog & Articles
 
 - 📝 Articles available on [hashnode.com/@satpalsinh](https://hashnode.com/@satpalsinh)
 
----
 
 ## 📊 GitHub Stats
 
