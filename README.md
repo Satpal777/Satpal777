@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Satpalsinh Rana 👋</h1>
+<h1 align="center">Hi, I'm Satpal 👋</h1>
 <h3 align="center">Software Engineer · Asite Solutions · Ahmedabad, India</h3>
 
 
@@ -7,12 +7,12 @@
   <a href="https://linkedin.com/in/satpalsinhrana" target="_blank">💼 LinkedIn</a> &nbsp;|&nbsp;
   <a href="mailto:satpalsinh777@gmail.com">📧 Email</a> &nbsp;|&nbsp;
   <a href="https://github.com/Satpal777" target="_blank">🐙 GitHub</a>
-  ![](https://komarev.com/ghpvc/?username=Satpal777&color=green)
 </p>
+
 
 ---
 
-## 🙋 About Me
+## 🙋 About Me ![Profile View](https://komarev.com/ghpvc/?username=Satpal777&color=green)
 
 - 💼 **Software Engineer** at [Asite Solutions Pvt. Ltd.](https://www.asite.com), Ahmedabad *(June 2023 – Present)*
 - 🎓 B.E. in Information Technology at **Government Engineering College, Modasa** (CPI: 8.78)
