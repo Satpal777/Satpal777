@@ -1,68 +1,125 @@
-
-# Hi, I'm Satpal! 👋
-
-## 😎 Portfolio
-> [Checkout here ↗️](https://rss-satpalsinhrana.vercel.app)
-
-## 🚀 About Me
-> I am an enthusiastic Full Stack Developer
-
-## 🛠 Skills
-- [x] HTML
-- [x] CSS
-- [x] Javascript
-- [x] Bootstrap
-- [x] PHP
-- [x] ReactJS
-- [x] NextJS
-- [x] Node.js
-- [x] AngularJS
-- [x] Mongo DB
-- [x] Angular
-- [ ] Vue
-- [ ] Nuxt
-- [ ] Flask
-- [ ] Django
-
-## 🏆 Projects
-| Projects |  Title |  Demo  |
-| :----:  | ----  | ----  |
-| 🥇 | [NextNews](https://github.com/Satpal777/NextNews) | [Preview](https://github.com/Satpal777/NextNews?tab=readme-ov-file#%EF%B8%8F-preview) |
-| 🥇 | [FitnFine GYM](https://github.com/Satpal777/FitnFineGym) | https://fitn-fine-gym.vercel.app |
-| 🥇 | [Carpool Website](https://github.com/Satpal777/Carpool) | https://github.com/Satpal777/Carpool#readme  |
-| 🥇 | [NewsMan](https://github.com/Satpal777/NewsMan) | https://github.com/Satpal777/NewsMan#readme  |
-| 🥇 | [WeatherApp](https://github.com/Satpal777/WeatherApp) | https://github.com/Satpal777/WeatherApp#readme  |
-| 🥇 | [Simple Website](https://github.com/Satpal777/Website) | https://satpal777.github.io/Website  |
-| 🥇 | [E-learning Website](https://github.com/Satpal777/E-Learning) | https://satpal777.github.io/E-Learning  |
-| 🥇 | [GYM Website](https://github.com/Satpal777/GymWebsite) | https://satpal777.github.io/GymWebsite |
-| 🥇 | [Login Form](https://github.com/Satpal777/Login-Form) | https://satpal777.github.io/Login-Form |
-
-## 💡Facts
-
-- 🔭 I’m currently pursuing my graduation from **GTU**
-- 🌱 I’m currently learning **Angular**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Satpal777](https://github.com/Satpal777)
-
-- 💬 Ask me about **JavaScript, reactjs, node.js and python**
-
-- 📫 How to reach me **ranasatpalsinh@gmail.com**
-
-- ⚡ **"Having Good sense of Humour 😁"**
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/satpalsinhrana)
-
-## 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Satpal777&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Satpal777&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Satpal777&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<h1 align="center">Hi, I'm Satpalsinh Rana 👋</h1>
+<h3 align="center">Software Engineer · Asite Solutions · Ahmedabad, India</h3>
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Satpal777&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <a href="https://www.satpal.cloud" target="_blank">🌐 Portfolio</a> &nbsp;|&nbsp;
+  <a href="https://linkedin.com/in/satpalsinhrana" target="_blank">💼 LinkedIn</a> &nbsp;|&nbsp;
+  <a href="mailto:satpalsinh777@gmail.com">📧 Email</a> &nbsp;|&nbsp;
+  <a href="https://github.com/Satpal777" target="_blank">🐙 GitHub</a>
+  ![](https://komarev.com/ghpvc/?username=Satpal777&color=green)
+</p>
 
+---
 
-[![](https://visitcount.itsvg.in/api?id=Satpal777&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🙋 About Me
+
+- 💼 **Software Engineer** at [Asite Solutions Pvt. Ltd.](https://www.asite.com), Ahmedabad *(June 2023 – Present)*
+- 🎓 B.E. in Information Technology at **Government Engineering College, Modasa** (CPI: 8.78)
+- 🖥️ Building cross-platform desktop apps with **Electron.js + Angular** and web apps with **Angular + TypeScript**
+- 💬 Ask me about **JavaScript, TypeScript, Angular, React, Node.js**
+- ⚡ Fun fact: *I have a good sense of humour 😁*
+
+---
+
+## 💼 Experience
+
+### Software Engineer — Asite Solutions Pvt. Ltd.
+*Ahmedabad, Gujarat · June 2023 – Present*
+
+- **Desktop Application Development**
+- **Web Application Development**
+
+---
+
+## 📚 Currently Learning
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-0A0A0A?style=flat&logo=githubactions&logoColor=white)
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+**Frontend**
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![ReactJS](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![NextJS](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat&logo=reactivex&logoColor=white)
+![NgRx](https://img.shields.io/badge/NgRx-BA2BD2?style=flat&logo=reactivex&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+
+**Desktop & DevOps**
+
+![Electron.js](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+**Data & Others**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+| # | Project | Tech | Demo |
+|:---:|---|---|---|
+| 1 | [NextNews](https://github.com/Satpal777/NextNews) | Next.js, Groq, LLaMA, shadcn/ui | [Preview](https://github.com/Satpal777/NextNews?tab=readme-ov-file#%EF%B8%8F-preview) |
+| 2 | [Carpool](https://github.com/Satpal777/Carpool) | AngularJS, Node.js, MongoDB, Leaflet | [Readme](https://github.com/Satpal777/Carpool#readme) |
+| 3 | [FitnFine GYM](https://github.com/Satpal777/FitnFineGym) | React, Node.js | [Live](https://fitn-fine-gym.vercel.app) |
+| 4 | [NewsMan](https://github.com/Satpal777/NewsMan) | React, NewsAPI | [Readme](https://github.com/Satpal777/NewsMan#readme) |
+| 5 | [WeatherApp](https://github.com/Satpal777/WeatherApp) | JavaScript, OpenWeather API | [Readme](https://github.com/Satpal777/WeatherApp#readme) |
+| 6 | [E-learning Website](https://github.com/Satpal777/E-Learning) | HTML, CSS, JS | [Live](https://satpal777.github.io/E-Learning) |
+| 7 | [GYM Website](https://github.com/Satpal777/GymWebsite) | HTML, CSS, JS | [Live](https://satpal777.github.io/GymWebsite) |
+| 8 | [Login Form](https://github.com/Satpal777/Login-Form) | HTML, CSS | [Live](https://satpal777.github.io/Login-Form) |
+
+---
+
+## 🏆 Certifications & Achievements
+
+- 📜 **Namaste JavaScript** — *Akshay Saini* · Deep dive into JS engine internals, closures & event loop
+- 📜 **JavaScript: Five Advanced Challenges and Concepts** — *LinkedIn Learning* · Performance optimization & advanced functional patterns
+- 📜 **Namaste Node.js** — *Akshay Saini* · Scalable backend architecture, Libuv, Streams & Clusters
+- 🏅 **LeetCode 365 Days Badge** — *LeetCode* · Consistent problem-solving across algorithms & data structures
+
+---
+
+## ✍️ Blog & Articles
+
+- 📝 Articles available on [hashnode.com/@satpalsinh](https://hashnode.com/@satpalsinh)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Satpal777&theme=dark&hide_border=true&include_all_commits=true&count_private=false" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satpal777&theme=dark&hide_border=true" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satpal777&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
+</p>
