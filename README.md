@@ -105,9 +105,8 @@
 
 - 📝 Articles available on [hashnode.com/@satpalsinh](https://hashnode.com/@satpalsinh)
 
-
 ## 📊 GitHub Stats
-
-<p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Satpal777&theme=transparent)](https://git.io/streak-stats)
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Satpal777&theme=transparent" />
+  <img src="https://streak-stats.demolab.com?user=Satpal777&theme=transparent&locale=hi" />
+</div>
