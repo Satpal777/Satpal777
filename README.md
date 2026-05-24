@@ -3,6 +3,7 @@
 
 <p align="center">
   <a href="https://www.satpal.cloud" target="_blank">🌐 Portfolio</a> &nbsp;|&nbsp;
+  <a href="https://www.satpal.cloud/projects" target="_blank">💪 Project Catalog</a> &nbsp;|&nbsp;
   <a href="https://linkedin.com/in/satpalsinhrana" target="_blank">💼 LinkedIn</a> &nbsp;|&nbsp;
   <a href="mailto:satpalsinh777@gmail.com">📧 Email</a> &nbsp;|&nbsp;
   <a href="https://github.com/Satpal777" target="_blank">🐙 GitHub</a>
