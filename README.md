@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm Satpal 👋</h1>
+<img width="2056" height="765" alt="bg" src="https://github.com/user-attachments/assets/3783c4ac-1e6f-4fef-90a4-3c98f201bae8" />
 <h3 align="center">Software Engineer · Asite Solutions · Ahmedabad, India</h3>
 
 <p align="center">
