@@ -2,7 +2,7 @@
 <img width="2056" height="765" alt="bg" src="https://github.com/user-attachments/assets/3783c4ac-1e6f-4fef-90a4-3c98f201bae8" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Software+engineer;Ahmedabad%2C+India;Voice+agents+and+MCP+servers;Angular%2C+Next.js%2C+TypeScript%2C+Bun" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Software+Engineer;Ahmedabad%2C+India;Voice+agents+and+MCP+servers;Angular%2C+Next.js%2C+TypeScript%2C+Bun" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 ## 🙋 About Me
 
-- Software engineer at [Asite Solutions Pvt. Ltd.](https://www.asite.com), Ahmedabad, June 2023 to present
+- Software Engineer at [Asite Solutions Pvt. Ltd.](https://www.asite.com), Ahmedabad, June 2023 to present
 - B.E. in Information Technology from Government Engineering College, Modasa, 2019 to 2023. CPI 8.78
 - At work I build Electron and Angular desktop apps, and Angular TypeScript web apps
 - On my own time I build voice agents and MCP servers. I also ship RAG apps and realtime UIs in Next.js and Bun.
@@ -120,7 +120,7 @@ The rest is on the [project catalog](https://www.satpal.cloud/projects) and [Git
 
 ## 🏆 Certifications
 
-- Namaste JavaScript, Akshay Saini. JS engine internals, closures, and the event loop
+- Namaste JavaScript, Akshay Saini. JS Engine internals, closures, and the event loop
 - JavaScript: Five Advanced Challenges and Concepts, LinkedIn Learning. Performance and functional patterns
 - Namaste Node.js, Akshay Saini. Libuv, streams, and clusters
 - LeetCode 365 Days Badge. Daily algorithm practice
